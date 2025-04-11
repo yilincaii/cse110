@@ -5,7 +5,7 @@
 
 ---
 
-## ✨ Who is Yilin?
+## ✨ Introduction of Yilin
 
 Hi there! I'm **Yilin** — part-time student, full-time dreamer, and eternal bug-squisher.  
 
@@ -62,10 +62,9 @@ function debugLife() {
 
 ### Languages I pretend to master:
 
-- JavaScript  
+- C++  
 - Python  
-- Markdown  
-- Bash (only copy-paste level)
+- Java  
 
 ### things I like:
 
